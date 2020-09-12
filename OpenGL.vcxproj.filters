@@ -53,6 +53,9 @@
     <ClInclude Include="Model.h">
       <Filter>標頭檔</Filter>
     </ClInclude>
+    <ClInclude Include="Heaty+j4ty9jder.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="shaders\vertexShader.vs" />

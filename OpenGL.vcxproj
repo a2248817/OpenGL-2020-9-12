@@ -187,6 +187,7 @@
   <ItemGroup>
     <ClInclude Include="Camera.h" />
     <ClInclude Include="ElementBuffer.h" />
+    <ClInclude Include="Heaty+j4ty9jder.h" />
     <ClInclude Include="Mesh.h" />
     <ClInclude Include="Model.h" />
     <ClInclude Include="Shader.h" />
